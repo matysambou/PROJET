@@ -1,0 +1,18 @@
+.container{
+    border: 2px solid;height: 90vh;
+    width: 100%;
+    display: flex;
+align-items: flex-start;
+justify-content: space-evenly;
+
+ }
+ div{
+    border: 2px solid red;
+
+
+ }
+ #mar{
+    border: 2px solid rgb(34, 129, 10);
+  
+
+ }
